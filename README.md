@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Bel Andrew</h1>
 <h3 align="center">I'm a passionate student who want to be a frontend developer.</h3>
 <br>
-<h3> And currently a 1st year college student at DFCAMCLP-Satalite Campus<br>And taking the course of Bachelor of science in Information System.
+<h3> >And currently a 1st year college student at DFCAMCLP-Satalite Campus<br>>And also taking the course of Bachelor of science in Information System.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/bel andrew lina-ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bel andrew lina-ac" height="30" width="40" /></a>
