@@ -3,7 +3,7 @@ BelLinaac/BelLinaac is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Bel Andrew</h1>
-<h3 align="center">I'm a passionate student who want to be a frontend developer.</h3>
+<h3 align="center">I'm a passionate student who want to be a backend developer and as well as being a Data Engineer</h3>
 <br>
 <h3> >And currently a 1st year college student at DFCAMCLP-Satalite Campus<br>>And also taking the course of Bachelor of science in Information System.</h3>
 <h3 align="left">Connect with me:</h3>
