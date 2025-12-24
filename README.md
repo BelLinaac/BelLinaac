@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  I am a 1st-year <b>Bachelor of Science in Information Systems</b> student at <br>
+  I am a 3rd-year <b>Bachelor of Science in Information Systems</b> student at <br>
   <b>DFCAMCLP - Satellite Campus</b>.
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on building my foundation in **Python and Java**.
+- 🔭 I’m currently working on building my foundation in **Python and Java**. And also currently have interest in SQL.
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 - 🥅 My Goal: To specialize in **Backend Development** and **Data Engineering**.
 - ⚡ Fun fact: I have a background in creative tools like **Photoshop** and **Unity**.
@@ -34,15 +34,6 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
-
-<br>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelLinaac&show_icons=true&theme=tokyonight&hide_border=true" alt="Bel Andrew's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelLinaac&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <br>
